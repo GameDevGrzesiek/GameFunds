@@ -322,7 +322,7 @@
 | **Powerhouse Capital** | USA | [site](https://powerhouse.vc) | Venture | Site | Media/interactive portfolio | Limited public disclosure; co-invests with BITKRAFT. |
 | **Lumikai** | India | [site](https://www.lumikai.com) | Pre-seed–Series A · ~$200K–$2M | hello@lumikai.com | Loco (exit), Studio Sirah, Mayhem Studios | India's first gaming/interactive fund; Fund II $50M (2025). |
 | **Dreamcraft Ventures** | Denmark | [site](https://dreamcraft.vc) | Pre-seed–Series A · avg ~$680K, up to $10M | Site / warm intro | Hiber, GRID (esports data) | Copenhagen; €66M Fund II. Gaming/esports among core themes; founders ex-Better Collective. Nordic Game Capital Summit regular. |
-| **ForsVC** | Belgium | [site](https://fors.vc) | Early stage · €150K–€1.5M tickets | Site | Oro Interactive (exit to Kepler, 7×), Galaxy Grove, Arcanix | €18M gaming-only fund (BE/NL/FR/DE). Note: may require an SPV/subsidiary structure for financing `[?]`. |
+| **ForsVC** | Belgium | [site](https://fors.vc) | Early stage · €150K–€1.5M tickets | Site | Oro Interactive (exit to Kepler, 7×), Galaxy Grove, Arcanix | €18M gaming-only fund (BE/NL/FR/DE). Typically inveests in equity directly or via convertible loan agreements. |
 | **SNÖ Ventures** | Norway | [site](https://sno.vc) | Early stage | teodor@sno.vc | Nordic tech & gaming | Contact: Teodor Bjerrang. |
 | **PlayCap** | Sweden | [site](https://www.playcap.gg) | Early stage (gaming) | Site / LinkedIn | — `[?]` | Nordic gaming investor; Games Capital Summit participant. Contacts: Marie Mejerwall, Bibbi Wickman. |
 | **Node Ventures** | Sweden | [site](https://www.node.vc) | Early stage | Site | Nordic tech incl. gaming | Games Capital Summit participant. |
