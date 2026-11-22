@@ -620,6 +620,7 @@
 **Guides & lists:**
 - [List of Festivals](https://howtomarketagame.com/festivals) (Chris Zukowski) — upcoming festivals and showcases
 - [List of Festivals 2](https://immutable-events-wishlists.netlify.app/) (Robbie Ferguson) — festival list with filtering
+- [Overheard Calendar](https://getoverheard.com/calendar/) (Overheard) — submission deadlines for festivals, showcases, awards, Steam events, grants and funds, each linked to the organiser's page with a last-checked date
 - [Marketing Roadmap](https://docs.google.com/spreadsheets/d/1SU2Pjx2nyanOqrgvNHnFoYAtwlOTAIbO0GamRO_MBk4/edit) (Chris Zukowski) — step-by-step go-to-market strategy per development stage
 - [Pro Game Marketing](https://www.progamemarketing.com/) (Chris Zukowski) — free & paid courses: Steam pages, wishlists, pitching for funding
 - [Games Career Resource Library](https://into-games.notion.site/7ad9ee991f974b9eb3f33a648868822f) (Into Games)
